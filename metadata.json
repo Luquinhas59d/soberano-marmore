@@ -1,0 +1,7 @@
+{
+  "name": "Soberano Mármore - Luxo Sólido",
+  "description": "Uma plataforma de luxo para marmoraria de alto padrão, integrando catálogo de pedras nobres, portfólio de projetos e consultoria inteligente com IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
